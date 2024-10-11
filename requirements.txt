@@ -1,3 +1,0 @@
-torch
-torch-cosine-annealing
-tqdm
