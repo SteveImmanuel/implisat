@@ -1,4 +1,5 @@
-# Implisat
+# Neural Compression for Multispectral Satellite Images (NeurIPS 2024 workshop)
+
 
 ## Setup
 Create a new conda environment with the following command:
